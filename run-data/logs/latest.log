@@ -1,0 +1,31 @@
+[23May2025 17:59:50.700] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\alex_\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.4.1, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, vectortechmod, --all, --output, C:\Users\alex_\Documents\mcmodfrthistime\mcmod-1.20.1\src\generated\resources, --existing, C:\Users\alex_\Documents\mcmodfrthistime\mcmod-1.20.1\src\main\resources]
+[23May2025 17:59:50.704] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[23May2025 17:59:50.851] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[23May2025 17:59:50.911] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/alex_/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[23May2025 17:59:51.215] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\alex_\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.1\97b774cead20444ed9d0c2de762881a15d872397\javafmllanguage-1.20.1-47.4.1.jar is missing mods.toml file
+[23May2025 17:59:51.218] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\alex_\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.1\da4a2af4a4ebbbb33e35b292a16fe3f7122b236\lowcodelanguage-1.20.1-47.4.1.jar is missing mods.toml file
+[23May2025 17:59:51.220] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\alex_\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.1\75a8f0757adad78cbd8108dff9e0d39cbdb3d787\mclanguage-1.20.1-47.4.1.jar is missing mods.toml file
+[23May2025 17:59:51.222] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\alex_\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.1\3061e70b85c05f936d9fa24477be4d4205d8f6b8\fmlcore-1.20.1-47.4.1.jar is missing mods.toml file
+[23May2025 17:59:51.322] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[23May2025 17:59:52.718] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\alex_\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, vectortechmod, --all, --output, C:\Users\alex_\Documents\mcmodfrthistime\mcmod-1.20.1\src\generated\resources, --existing, C:\Users\alex_\Documents\mcmodfrthistime\mcmod-1.20.1\src\main\resources]
+[23May2025 17:59:53.080] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [vectortechmod]
+[23May2025 17:59:57.491] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.1, for MC 1.20.1 with MCP 20230612.114412
+[23May2025 17:59:57.492] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.1 Initialized
+[23May2025 17:59:57.891] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/alex_/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.1_mapped_parchment_2023.06.26-1.20.1/forge-1.20.1-47.4.1_mapped_parchment_2023.06.26-1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[23May2025 17:59:57.891] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/alex_/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.1_mapped_parchment_2023.06.26-1.20.1/forge-1.20.1-47.4.1_mapped_parchment_2023.06.26-1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[23May2025 17:59:58.160] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[23May2025 17:59:58.227] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 65 ms
+[23May2025 17:59:58.227] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[23May2025 17:59:58.268] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 40 ms
+[23May2025 17:59:58.268] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: vectortechmod
+[23May2025 17:59:58.372] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: vectortechmod finished after 103 ms
+[23May2025 17:59:58.372] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: vectortechmod
+[23May2025 17:59:58.374] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: vectortechmod finished after 1 ms
+[23May2025 17:59:58.374] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id vectortechmod
+[23May2025 17:59:58.382] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id vectortechmod finished after 8 ms
+[23May2025 17:59:58.382] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id vectortechmod
+[23May2025 17:59:58.383] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id vectortechmod finished after 0 ms
+[23May2025 17:59:58.383] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[23May2025 17:59:58.395] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 12 ms
+[23May2025 17:59:58.396] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 236 ms
+[23May2025 17:59:58.409] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 39, old count: 0, new count: 40, removed stale: 0, written: 39

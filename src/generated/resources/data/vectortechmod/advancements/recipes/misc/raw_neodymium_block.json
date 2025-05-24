@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_neodymium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vectortechmod:raw_neodymium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "vectortechmod:raw_neodymium_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_neodymium",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vectortechmod:raw_neodymium_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

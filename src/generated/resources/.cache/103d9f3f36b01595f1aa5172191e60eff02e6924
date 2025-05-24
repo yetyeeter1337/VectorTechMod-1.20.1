@@ -1,0 +1,4 @@
+// 1.20.1	2025-05-23T17:59:58.4007143	Registries
+ef40f261ca2a93afc6cdef16a5828a75bcafb860 data/vectortechmod/forge/biome_modifier/add_neodymium_ore.json
+7c6848a3650e2c05ec1d60b1c060228fb66ad290 data/vectortechmod/worldgen/configured_feature/neodymium_ore.json
+9fd051afaccd7a0ddda41a19e6445b08a6f01ee6 data/vectortechmod/worldgen/placed_feature/neodymium_ore_placed.json

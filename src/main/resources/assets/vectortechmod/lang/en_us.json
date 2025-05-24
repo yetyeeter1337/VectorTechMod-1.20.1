@@ -1,0 +1,11 @@
+{
+  "item.vectortechmod.neodymium": "Neodymium Ingot",
+  "item.vectortechmod.raw_neodymium": "Raw Neodymium",
+
+  "block.vectortechmod.neodymium_block": "Block of Neodymium",
+  "block.vectortechmod.raw_neodymium_block": "Block of Raw Neodymium",
+  "block.vectortechmod.neodymium_ore": "Neodymium Ore",
+  "block.vectortechmod.deepslate_neodymium_ore": "Deepslate Neodymium Ore",
+
+  "creativetab.vectortech_tab": "Vectortech"
+}
